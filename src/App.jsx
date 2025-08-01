@@ -79,7 +79,7 @@ const App = () => {
                     {isLoading ? (
                         <Spinner />
                     ) : errorMessage ? (
-                        <p className='text-red-600'>{errorMessage}</p>
+                        <p className='text-red-500'>{errorMessage}</p>
                     ): (
                         <ul>
                             {movieList.map((movie) => (
