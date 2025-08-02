@@ -1,4 +1,5 @@
 This Movie App is developed using React.js for the front-end interface, Appwrite to handle backend functionality, and TailwindCSS for clean and responsive styling. It allows users to discover trending films, search for specific titles, and explore movie data powered by the TMDB API. The application boasts a modern UI with full responsiveness across devices.
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
